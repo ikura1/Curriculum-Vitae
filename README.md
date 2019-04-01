@@ -11,6 +11,17 @@
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 
+### 性格
+
+| key          | value                                                                               |
+| ------------ | ----------------------------------------------------------------------------------- |
+| 16Person     | [巨匠](https://www.16personalities.com/ja/istp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) |
+| エニアグラム | [芸術家](https://t.co/1jQK9Mq7Pi)                                                   |
+| HSP          | [弱](https://hsptest.jp/score/42)                                                   |
+| エムグラム   | [芸術家](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                             |
+
+!(エムグラム)[https://github.com/ikura1/Curricullum-Vitae/blob/media/mgram.png]
+
 ### 趣味
 
 - ゲーム
