@@ -20,7 +20,7 @@
 | HSP          | [弱](https://hsptest.jp/score/42)                                                   |
 | エムグラム   | [芸術家](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                             |
 
-<img src="https://github.com/ikura1/Curriculum-Vitae/blob/master/mgram.png" width="300px" height="300px")
+<img src="https://github.com/ikura1/Curriculum-Vitae/blob/master/mgram.png" width="300px" height="300px">
 
 ### 趣味
 
