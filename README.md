@@ -18,7 +18,7 @@
 | 16Person     | [巨匠](https://www.16personalities.com/ja/istp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) |
 | エニアグラム | [芸術家](https://t.co/1jQK9Mq7Pi)                                                   |
 | HSP          | [弱](https://hsptest.jp/score/42)                                                   |
-| エムグラム   | [芸術家](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                             |
+| エムグラム   | [詳細ページ](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                         |
 
 <img src="https://github.com/ikura1/Curriculum-Vitae/blob/master/mgram.png" width="300px" height="300px">
 
