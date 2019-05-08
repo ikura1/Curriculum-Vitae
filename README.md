@@ -129,6 +129,17 @@ _職務: 機械学習エンジニア_
   - ジョブごとの依存関係や管理のしやすさから Rundeck に移行した
   - 他の候補としては、Luigi や AirFlow があった
 
+- flask での API サーバー構築
+
+  - bottle でのサーバーが構築されていたが、不安定で時折落ちていた
+  - 資料が多く軽量な flask への移行を行った
+
+- lightgbm でのモデル作成
+
+  - 既存モデルが RandomForest で作成されていた
+  - kaggle でメジャーで資料がある lightgbm で、モデルを作成した
+  - kaggle の karnel を参考に特徴量エンジニアリングや不均衡データへの対策を行った
+
 ##### 開発環境改善
 
 - Bitbucket Pipeline を使っての Docker Image の自動ビルド
