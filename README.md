@@ -10,6 +10,7 @@
 | Github  | [@ikura1](https://github.com/ikura1)             |
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
+| conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
 
 ### 性格
 
@@ -47,6 +48,10 @@
 - Github Trend
   - Python の Daily Trend を見てます
   - 気になるのがあると、試す形です
+- 勉強会
+  - その時追っ掛けている技術の勉強会に参加
+    - Python・機械学習やアジャイル系が多い
+  - モチベーションの維持や知識のきっかけにしている
 
 ## スキル
 
