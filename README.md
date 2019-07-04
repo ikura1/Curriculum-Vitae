@@ -11,6 +11,7 @@
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
+| AtCoder | [ikura1](https://atcoder.jp/users/ikura1)        |
 
 ### 性格
 
@@ -27,7 +28,6 @@
 
 - ゲーム
   - 流行りものに飛びつく性質
-  - 基本的には PC ゲーム、PS4 や Switch もやっています
   - 最近は League Of Legends か スマブラが多い
 - やったことないなにかやること
   - ボルダリング
@@ -89,13 +89,14 @@
 
 ## やったことはないが興味があるもの
 
-興味のある分野は現職での担当分野か、現職で担当者がいない分野になります。
+１人でサービス開発できるようになるくらいには興味があります。
+バックエンド >= フロントエンド > インフラ
 
+- Vue.js
 - kubenetus
 - GraphQL
 - CI / CD
 - 監視
-- DB
 
 ## 職務経歴
 
