@@ -8,7 +8,6 @@
 | Birth   | 1992/02/28                                       |
 | Blog    | [ikura1's log](https://ikura-lab.hatenablog.com) |
 | Github  | [@ikura1](https://github.com/ikura1)             |
-| Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
 | AtCoder | [ikura1](https://atcoder.jp/users/ikura1)        |
@@ -23,17 +22,6 @@
 | エムグラム   | [詳細ページ](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                         |
 
 <img src="https://github.com/ikura1/Curriculum-Vitae/blob/master/mgram.png" width="300px" height="300px">
-
-### 趣味
-
-- ゲーム
-  - 流行りものに飛びつく性質
-  - 最近は League Of Legends か スマブラが多い
-- やったことないなにかやること
-  - ボルダリング
-  - 山登り
-  - 料理教室
-  - 自作キーボード
 
 ### 情報収集の媒体
 
@@ -104,7 +92,7 @@
 
 _広告代理店_
 _職務: 機械学習エンジニア_
-メディアサイトの機械学習に関わる部分(データ・バックエンド・インフラ)を担当していました。
+メディアサイトの機械学習に関わる部分(データ・バックエンド・インフラ)を担当しています。
 また、関れる範囲で様々なことを行ってきました。
 
 #### 業務内容
