@@ -7,6 +7,7 @@
 | Name    | おくだ ゆうき (Okuda Yuki)                       |
 | Birth   | 1992/02/28                                       |
 | Blog    | [ikura1's log](https://ikura-lab.hatenablog.com) |
+| Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Github  | [@ikura1](https://github.com/ikura1)             |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
@@ -88,7 +89,26 @@
 
 ## 職務経歴
 
-### 2018/05 - 現在 : 株式会社 GC
+### 2019/10 - 現在: 無職
+
+職があるにできなかったことやるための期間としています。平行して求職活動を行っています。
+金銭面が心許無い点は、少しお仕事を頂いて首の皮を繋いでいきます。遅くても年内中には有職になりたいと考えています。
+
+#### 触る技術
+
+Vue.js・Django・Firebase を使い、作りたかったものを作りつつスキルを習得していきます。
+作成物に対して CI/CD と監視回りを設定し習熟度を上げる予定です。```
+
+- Vue.js
+- Django
+  - RestFramework
+- Firebase
+- CI/CD
+  - GithubActions
+- 監視
+  - Kibana
+
+### 2018/05 - 2019/09 : 株式会社 グラッドキューブ
 
 _広告代理店_
 _職務: 機械学習エンジニア_
@@ -209,7 +229,7 @@ _職務: 機械学習エンジニア_
   - 成長速度の鈍化
     - Python や機械学習のエンジニアが存在せず、１人で業務を行っている時間が大半
 
-### 201404 - 2018/04 : 株式会社 GS
+### 201404 - 2018/04 : 株式会社 Geo ソリューションズ
 
 _測量会社_
 _職務: システムエンジニア_
