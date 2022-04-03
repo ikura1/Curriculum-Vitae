@@ -6,6 +6,7 @@
 | ------- | ------------------------------------------------ |
 | Name    | おくだ ゆうき (Okuda Yuki)                       |
 | Birth   | 1992/02/28                                       |
+| Address | 大阪                                             |
 | Blog    | [ikura1's log](https://ikura-lab.hatenablog.com) |
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
 | Github  | [@ikura1](https://github.com/ikura1)             |
