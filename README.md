@@ -53,7 +53,7 @@
 
 - Django
 - Flask
-- PyQt4
+- PyQt
 
 ### その他
 
