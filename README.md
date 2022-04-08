@@ -13,7 +13,6 @@
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
 | AtCoder | [ikura1](https://atcoder.jp/users/ikura1)        |
-| Google  | [ikura](https://g.dev/ikura1)                    |
 
 ### 性格
 
