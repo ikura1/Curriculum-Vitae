@@ -9,7 +9,7 @@
 | Address | 大阪                                             |
 | Blog    | [ikura1's log](https://ikura-lab.hatenablog.com) |
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
-| Github  | [@ikura1](https://github.com/ikura1)             |
+| GitHub  | [@ikura1](https://github.com/ikura1)             |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
 | AtCoder | [ikura1](https://atcoder.jp/users/ikura1)        |
@@ -82,7 +82,7 @@
 
 _広告代理店_
 _職務: 機械学習エンジニア_
-スポーツメディアサイト SPAIA の機械学習に関わる部分を担当し、データの前処理から API 提供までの一連の流れを経験しました。また、関れる範囲で様々なことを行ってきました。
+スポーツメディアサイト SPAIA の機械学習に関わる部分を担当し、データの前処理から API 提供までの一連の流れを経験しました。また、関れる範囲でさまざまなことを行ってきました。
 
 - プロジェクト規模
   - 5-6 人での開発
@@ -130,7 +130,6 @@ Python エンジニアとして、QGIS の Python プラグイン開発を行っ
 #### 転職理由
 
 - 一人での開発に限界を感じた
-  - 開発メンバー一人一人が別案件が取り扱っているため、業務は１人で実施していた
   - 誰かと一緒に働き、互いに知識を吸収できる環境で働いてみたかった
 - 新しい分野へ挑戦したかった
   - 開発人数が増えないこともあり、同じ作業が増えていた
