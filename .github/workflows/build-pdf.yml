@@ -19,11 +19,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - use: actions/checkout@v3
+    - uses: actions/checkout@v3
     - run: docker run --rm -v $PWD:/app jmaupetit/md2pdf README.md README.pdf
     - name: create release
       id: create_release
-      use: actions/create-release@v1
+      uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
