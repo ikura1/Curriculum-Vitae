@@ -24,7 +24,7 @@
 | HSP          | [弱](https://hsptest.jp/score/42)                                                   |
 | エムグラム   | [詳細ページ](https://mgram.me/ja/share/Lapj7aiHm835gC_pWgb)                         |
 
-<img src="https://github.com/ikura1/Curriculum-Vitae/blob/master/mgram.png" width="300px" height="300px">
+<img src="mgram.png" width="300px" height="300px">
 
 ### 情報収集の媒体
 
@@ -67,7 +67,8 @@
 ## 職務経歴
 
 ### 2019/10 - 現在: フリーランス
-Pythonエンジニアとして、以前に勤めていた会社からのお仕事をメインに開発を行っていました。
+
+Python エンジニアとして、以前に勤めていた会社からのお仕事をメインに開発を行っていました。
 
 #### 業務内容
 
