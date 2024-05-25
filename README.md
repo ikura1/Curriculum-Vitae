@@ -49,12 +49,7 @@
 ### 言語
 
 - Python
-
-### フレームワーク
-
-- Django
-- Flask
-- PyQt
+- TypeScript
 
 ### その他
 
