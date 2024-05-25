@@ -30,15 +30,12 @@
 
 - Podcast
   - 技術系全般を雑多に聞いています
-  - Rebuild, omoiyari.fm, emfm, Fukabori.fm
+  - Rebuild, Fukabori.fm, emfm
 - はてなブックマーク
   - 人気エントリーとマイホットエントリーを読みます
   - スライドやブログ・技術を知るきっかけにしてます
 - Twitter
   - エンジニアの人をフォローしており、スライドやブログ・技術を知るきっかけにしてます
-- Github Trend
-  - Python の Daily Trend を見てます
-  - 気になるのがあると、試す形です
 - 勉強会
   - その時追っ掛けている技術の勉強会に参加
     - Python・機械学習やアジャイル系が多い
