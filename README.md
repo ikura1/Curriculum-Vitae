@@ -9,11 +9,10 @@
 | Address | 東京                                             |
 | Blog    | [ikura1's log](https://ikura-lab.hatenablog.com) |
 | Qiita   | [@ikura1](https://qiita.com/ikura1)              |
+| Zenn    | [@ikura1](https://zenn.dev/ikura1)               |
 | Github  | [@ikura1](https://github.com/ikura1)             |
 | Twitter | [@ikura1](https://twitter.com/ikura1)            |
 | conpass | [@ikura1](https://connpass.com/user/ikura1/)     |
-| AtCoder | [ikura1](https://atcoder.jp/users/ikura1)        |
-| Google  | [ikura](https://g.dev/ikura1)                    |
 
 ### 性格
 
